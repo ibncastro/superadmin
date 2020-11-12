@@ -70,10 +70,6 @@ export class List extends Component {
         return (
 
             <div className="users-list-filter px-1">
-               
-                    {/* <div className="row py-2 mb-2">
-
-                    </div> */}
                     <div className="users-list-table">
                         <div className="card">
                             <div className="card-content">

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 // import Vehicle from "./head";
-import GetCenters from "../Queries/getCenters";
+import GetCenters from "../Queries/getRegs";
 import Cards from "./cards";
 
 import { TabView, TabPanel } from "primereact/tabview";

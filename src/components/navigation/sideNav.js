@@ -31,9 +31,9 @@ export default class Sidenav extends Component {
                 </li>
              
                 <li className="dropdown nav-item" data-menu="dropdown">
-                  <Link to="/profile" className="nav-link"  >
+                  <Link to="/staff" className="nav-link"  >
                     <i className="feather icon-package" />
-                    <span data-i18n="Apps">Profile</span>
+                    <span data-i18n="Apps">Staff</span>
                   </Link>
                 </li>   
             </ul>
